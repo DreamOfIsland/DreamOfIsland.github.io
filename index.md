@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-yellow">
     </img>
   </a>
+</p>
+---
 |                  | 수학                        | 평가              |  
 |:--- | ---: | :---: |  
 | 철수             | 90            | 참잘했어요. |  
 | 영희           | 50            | 분발하세요. |
-</p>
